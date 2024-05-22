@@ -36,3 +36,6 @@ representation of citation practices. Each selected text was paired with a citat
 create both valid and invalid examples.
 We further expanded this dataset by incorporating additional features and subcategories. The complete dataset is publicly available on GitHub and can be
 accessed via this link.
+
+
+Done by Ahmad Zeeb and Philip Olsson.
